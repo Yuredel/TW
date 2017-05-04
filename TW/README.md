@@ -32,6 +32,13 @@ create table capitulos( id_capitulo MEDIUMINT NOT NULL AUTO_INCREMENT, id_public
 
 ![Imagen][im7]
 
+# problemas
+error al importar una base de datos:
+
+`mysqldump –u usuario_mysql -p nombre_bbdd > fichero_exportación.sql`
+
+
+
 
 
 [im1]: Imagenes/primerabd.jpg
