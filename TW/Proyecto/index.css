@@ -1,0 +1,114 @@
+header{
+ display: inline-block;
+    width: 100%;
+   background-color: lightSteelBlue;
+}
+
+article{
+ display: inline-block;
+ width: 100%;
+}
+img.logo{
+ background-color: lightSteelBlue;
+}
+
+input.login{
+ float: right;
+    margin-right: 40px;
+ margin-top: 100px;
+    border-image: transparent;
+    border-radius: 15px 15px 15px 15px;
+
+}
+div.superCabecera{
+ width: 100%;
+ display: -webkit-inline-box;
+
+}
+div.cabeceraLogo{
+ width: 20%;
+}
+div.cabeceraDrc  {
+ margin-top: 30px;
+ margin-left: 100PX;
+ padding-left: 290PX;
+ border-left: 20px;
+
+}
+
+div.olvido{
+ float:right;
+ margin-top:10px;
+
+}
+a#forgot{
+ color: green;
+}
+
+div.menuLateral{
+ width: 20%;
+ background-color: silver;
+
+}
+div.menuLateral ul{
+ list-style-type: none;
+ margin-top: 60px;
+
+}
+div.menuLateral ul li{
+ margin-bottom: 20px;
+ padding-top: 20px;
+
+}
+
+div.menuLateral li a{
+ color: black;
+ text-decoration: none;
+
+
+}
+
+div.general{
+ width: 100%;
+ display: -webkit-inline-box;
+}
+
+div.contenido{
+ width: 75%;
+ float: left;
+ background-color: red;
+ color: black;
+ text-align: center;
+
+}
+div.contenido nav ul{
+ list-style-type: none;
+}
+div.contenido  nav li a{
+ color: red;
+ text-decoration: none;
+
+}
+
+
+footer{
+ background-color: lightSteelBlue;
+ text-align: center;
+
+}
+footer nav{
+ display: inline-block;
+
+}
+footer nav ul{
+ list-style-type: none;
+
+ display: -webkit-inline-box;
+
+}
+footer nav ul li a{
+  padding-right: 60px;
+ text-decoration: none;
+ color: teal;
+
+}
