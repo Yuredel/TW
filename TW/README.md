@@ -37,6 +37,10 @@ error al importar una base de datos:
 
 `mysqldump –u usuario_mysql -p nombre_bbdd > fichero_exportación.sql`
 
+Falla que el codigo sea alphanumerico
+
+El listado completo no finaliza bien?
+
 
 
 

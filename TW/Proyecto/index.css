@@ -6,6 +6,8 @@ header{
 
 article{
  display: inline-block;
+
+  display: -webkit-inline-box;
  width: 100%;
 }
 img.logo{
@@ -49,10 +51,13 @@ div.menuLateral{
  width: 20%;
  background-color: silver;
 
+ float: left;
+
 }
 div.menuLateral ul{
  list-style-type: none;
  margin-top: 60px;
+
 
 }
 div.menuLateral ul li{
@@ -68,17 +73,12 @@ div.menuLateral li a{
 
 }
 
-div.general{
- width: 100%;
- display: -webkit-inline-box;
-}
-
 div.contenido{
  width: 75%;
- float: left;
  background-color: red;
  color: black;
  text-align: center;
+ float: right;
 
 }
 div.contenido nav ul{
@@ -112,3 +112,5 @@ footer nav ul li a{
  color: teal;
 
 }
+
+ Elegir archivos Elegir archivos
